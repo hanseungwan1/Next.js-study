@@ -1,0 +1,14 @@
+.header {
+  border: 1px solid salmon;
+  padding: 16px;
+  margin-top: 8px;
+}
+
+.header a {
+  padding: 0px 8px;
+  text-decoration-line: none;
+}
+
+.product {
+  padding: 16px;
+}
